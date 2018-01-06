@@ -92,6 +92,10 @@
       "^react-native$": "react-native-web"
     }
   },
+  "engines": {
+    "node": ">=8.0",
+    "npm": ">=3.0"
+  },
   "babel": {
     "presets": [
       "react-app"
